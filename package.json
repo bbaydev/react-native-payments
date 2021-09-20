@@ -1,5 +1,5 @@
 {
-  "name": "react-native-payments",
+  "name": "@beautybay/react-native-payments",
   "version": "0.8.4",
   "description": "Welcome to the best and most comprehensive library for integrating payments like Apple Pay and Google Pay into your React Native app.",
   "scripts": {
